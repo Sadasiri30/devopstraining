@@ -5,4 +5,7 @@ I have installed git on my PC, registered with username and useremail.
 Signed up and logged into github.com, created a repo named devopstraining. 
 Opened the gitbash on my PC, and cloned the remote repo with the repo url.
 
+We have created a file named gitintro.txt and 6 lines of text and saved the file.
+after saved the file, i have checked the status and committed as a first commit for gitintro.txt
+Checked the status again and pushed the changes to remote repo.
 
