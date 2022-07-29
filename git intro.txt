@@ -1,8 +1,0 @@
-We are approximately 20 students come here to learn DevOps Tools
-As part of that, we started to learn a first tool, ie GIT.
-
-I have installed git on my PC, registered with username and useremail.
-Signed up and logged into github.com, created a repo named devopstraining. 
-Opened the gitbash on my PC, and cloned the remote repo with the repo url.
-
-
