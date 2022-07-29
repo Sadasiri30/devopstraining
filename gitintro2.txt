@@ -1,2 +1,13 @@
 I have created a new text file named gitintro2.txt and adding few lines in the file.
 We are going for first commit
+
+As we added few lines there in the remote repo and committed as remote commit 1
+We checked here in local repo, ie through git bash it is showing that the working tree is clean. 
+But, in the VSC it is showing sync 1 cahnges to pull the request from remote repo.
+We added these lines in the local repo and try to add and commit now
+
+Once we use the git add command here, it asks us to use pull requests from remote repo to update the local repo prior to use git cmmit commands
+We stage the files initially in the git bash.
+ So we are going to use git pull request to get the data from remote repo initially. and later we will commit.
+
+ 
