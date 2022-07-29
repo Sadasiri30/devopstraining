@@ -1,0 +1,2 @@
+I have created a new text file named gitintro2.txt and adding few lines in the file.
+We are going for first commit
