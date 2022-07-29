@@ -11,3 +11,12 @@ We stage the files initially in the git bash.
  So we are going to use git pull request to get the data from remote repo initially. and later we will commit.
 
  
+Now we are adding here few lines in the remote repo to test pusha and pull requests viceversa
+and we will check the status in the gitbash for local repo, after the below mentioned commit.
+now i am committing for these two lines in the remote repo, as gitintro2.txt remote commit 1
+
+After all the commits done in the local repo, then only we are able to pull the requests from the remote server to the local repo
+once we made pull requests in the git bash, we get options in the VSC to keep both the changes or to discard any from remote or local
+
+
+
