@@ -1,2 +1,9 @@
 I have created a new text file named gitintro2.txt and adding few lines in the file.
 We are going for first commit
+
+Now we are adding here few lines in the remote repo to test pusha and pull requests viceversa
+and we will check the status in the gitbash for local repo, after the below mentioned commit.
+now i am committing for these two lines in the remote repo, as gitintro2.txt remote commit 1
+
+
+
