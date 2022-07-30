@@ -20,3 +20,8 @@ once we made pull requests in the git bash, we get options in the VSC to keep bo
 
 
 
+Now we are adding few lines here to undo the changes using restore command
+restore command is useful to undo thechanges prior to commit only, ie when the file is in the working area.
+We can use multiple file names in the restore command by seperating the file names with space
+
+
