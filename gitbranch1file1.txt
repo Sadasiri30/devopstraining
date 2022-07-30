@@ -6,3 +6,11 @@ after checkout to a branch, we add few lines to a text file and save to do our p
 Now we are adding few lines more here 
 and we are going to work on git cherrypick command
 by this command we can integrate the branch files into the master/main 
+
+
+by using cherry-pick commit id command, till what ever the commits we need to integratte with the main, till that only we can integrate.
+after the integration we can check the status and later we can push to remote repo from the main. 
+we find the data in the remoterepo till the cherry-pick comit id data that is integrated from branch to the main
+and the same pushed to the remote. But in the original branch file in the local repo can have additional commits,
+which are not integratesd to the main branch.
+
