@@ -3,3 +3,6 @@ create a branch by git branch command, and use git checkout command to enter int
 orelse we can create and enter into the branch at a time by using git checkout -b branchname command
 after checkout to a branch, we add few lines to a text file and save to do our practice.
 
+Now we are adding few lines more here 
+and we are going to work on git cherrypick command
+by this command we can integrate the branch files into the master/main 
