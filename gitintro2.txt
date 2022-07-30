@@ -25,3 +25,8 @@ restore command is useful to undo thechanges prior to commit only, ie when the f
 We can use multiple file names in the restore command by seperating the file names with space
 
 
+Now we are adding few more lines here to unstage a file from the staging area.
+for that we add few lines here, and move the file from working area to staging area by using add and commit commands.
+In the previous restore command we used only restore alone to undo the changes to file in the working area itself
+But here, we use restore --staged command to move a file from staging area to working area.
+
