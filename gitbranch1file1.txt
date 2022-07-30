@@ -1,0 +1,5 @@
+here with this we are going to learn git branching, working o branches and merge the branches into the main repo.
+create a branch by git branch command, and use git checkout command to enter into the branch
+orelse we can create and enter into the branch at a time by using git checkout -b branchname command
+after checkout to a branch, we add few lines to a text file and save to do our practice.
+
